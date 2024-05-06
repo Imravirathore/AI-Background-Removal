@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body
+{
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+ 
+  .test{
+    background-color: red !important;
+  }
+ 
+.heading-login{
+    font-family: "Nunito", sans-serif !important;
+}
