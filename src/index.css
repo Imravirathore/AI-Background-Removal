@@ -18,3 +18,8 @@ body
 .heading-login{
     font-family: "Nunito", sans-serif !important;
 }
+
+input
+{
+  border: 1px solid black;
+}
