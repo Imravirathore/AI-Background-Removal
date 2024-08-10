@@ -1,4 +1,4 @@
-# AI Background Removal
+# Smooth Scroll CSS
 In this example, you can implement Smooth Scroll in your website that looks great using a JS library.
 
 ## Live Website URL
